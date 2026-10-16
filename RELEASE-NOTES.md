@@ -1,8 +1,8 @@
-# CXGuard iOS 0.2.0-rc.1
+# CXGuard iOS 0.3.0-rc.1
 
 Experimental candidate: SDK plus selective build protection tool.
 
-- CXGAPI1 payload encryption with CryptoKit/Security, one-use context, continuous60-second deadline and licensed Swift/Objective-C APIs. Optional bounded URLSession adapter with pinning and cancellation.
+- CXGAPI2 payload encryption with CryptoKit/Security, one-use context, continuous60-second deadline and licensed Swift/Objective-C APIs. Optional bounded URLSession adapter with pinning and cancellation.
 - Same ephemeral AES for response with a different nonce and request/status binding; native interoperability with Node/.NET/Java.
 - Offline RSA license tied to bundle ID, Apple App Identifier and per-operation expiry.
 - Runtime observations and configurable guarded-operation policies without intentional process termination.

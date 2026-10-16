@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "version": "0.2.0-rc.1",
+  "status": "experimental",
+  "deviceIdentityQualified": false,
+  "appStoreToolchainQualified": false,
+  "minimumIOS": "15.0",
+  "minimumMacOSForTool": "12.0",
+  "vendorSigned": false,
+  "sourceCommit": "a99ecc610e5c65cdf83f95a812c1f9ab7b5c7cec",
+  "assets": {
+    "CXGuard-0.2.0-rc.1.xcframework.zip": "8d7b56107d7a6afa8ec431074b5eea285ed49b7f8d6011ceb1ed278c167604e7",
+    "cxguard-protect-0.2.0-rc.1.artifactbundle.zip": "a12c5e2e1336ca67df9f254cbc4ad71c188e60201643a9f6e3dbdac0dc87d9c7"
+  },
+  "limits": [
+    "Signed-device Keychain identity probe pending",
+    "Current App Store Xcode26+/SDK26+ qualification pending",
+    "Selective Swift grammar only",
+    "No universal screenshot prevention"
+  ],
+  "sourceTreeDirty": false,
+  "tag": "v0.2.0-rc.1",
+  "repository": "https://github.com/usantos/cxguard-ios-lib",
+  "urls": {
+    "CXGuard-0.2.0-rc.1.xcframework.zip": "https://github.com/usantos/cxguard-ios-lib/releases/download/v0.2.0-rc.1/CXGuard-0.2.0-rc.1.xcframework.zip",
+    "cxguard-protect-0.2.0-rc.1.artifactbundle.zip": "https://github.com/usantos/cxguard-ios-lib/releases/download/v0.2.0-rc.1/cxguard-protect-0.2.0-rc.1.artifactbundle.zip"
+  }
+}
